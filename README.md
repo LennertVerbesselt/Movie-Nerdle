@@ -1,4 +1,4 @@
-# movie-nerdle
+# Movie Nerdle
 
 ## Project setup
 ```
